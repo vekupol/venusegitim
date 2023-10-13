@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/venusegitim/static/css/main.d4a383f0.css",
+    "main.js": "/venusegitim/static/js/main.146b13a9.js",
+    "static/media/teacher-3.svg": "/venusegitim/static/media/teacher-3.51fd178da4a9d86e82e11d824151af90.svg",
+    "static/media/student-2.svg": "/venusegitim/static/media/student-2.97b8420a31126e12d43312b786d3a01e.svg",
+    "static/media/parent3.svg": "/venusegitim/static/media/parent3.c66844dc021cf8cba35deb6ba1a9973d.svg",
+    "static/media/parent4.svg": "/venusegitim/static/media/parent4.bf9f23f9f94dbf46e51d7c7b5c2fcce6.svg",
+    "static/media/student-3.svg": "/venusegitim/static/media/student-3.56e371a61d58c1615a9b01d322914ea2.svg",
+    "static/media/anaresim11.svg": "/venusegitim/static/media/anaresim11.eae5b1a04ccedbe51cf04cfb8cd4d379.svg",
+    "static/media/student-4.svg": "/venusegitim/static/media/student-4.bc1184b3ec40c85b0c1b3d69b57c3125.svg",
+    "static/media/teacher-4.svg": "/venusegitim/static/media/teacher-4.5992d1812095050c478a37627d6a23e1.svg",
+    "static/media/teacher-2.svg": "/venusegitim/static/media/teacher-2.e561e3bb195bfd30ecb73db7a68bc43b.svg",
+    "static/media/parent2.svg": "/venusegitim/static/media/parent2.4172f36da231bc397d1068e02cda901a.svg",
+    "index.html": "/venusegitim/index.html",
+    "static/media/ellipse1.svg": "/venusegitim/static/media/ellipse1.6dbe4b8e8616d58da46e0ca00a8494b6.svg",
+    "main.d4a383f0.css.map": "/venusegitim/static/css/main.d4a383f0.css.map",
+    "main.146b13a9.js.map": "/venusegitim/static/js/main.146b13a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a383f0.css",
+    "static/js/main.146b13a9.js"
+  ]
+}
