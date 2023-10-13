@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/venusegitim/static/css/main.d4a383f0.css",
-    "main.js": "/venusegitim/static/js/main.74f4f676.js",
+    "main.js": "/venusegitim/static/js/main.23d64549.js",
     "static/media/teacher-3.svg": "/venusegitim/static/media/teacher-3.51fd178da4a9d86e82e11d824151af90.svg",
     "static/media/student-2.svg": "/venusegitim/static/media/student-2.97b8420a31126e12d43312b786d3a01e.svg",
     "static/media/parent3.svg": "/venusegitim/static/media/parent3.c66844dc021cf8cba35deb6ba1a9973d.svg",
@@ -15,10 +15,10 @@
     "index.html": "/venusegitim/index.html",
     "static/media/ellipse1.svg": "/venusegitim/static/media/ellipse1.6dbe4b8e8616d58da46e0ca00a8494b6.svg",
     "main.d4a383f0.css.map": "/venusegitim/static/css/main.d4a383f0.css.map",
-    "main.74f4f676.js.map": "/venusegitim/static/js/main.74f4f676.js.map"
+    "main.23d64549.js.map": "/venusegitim/static/js/main.23d64549.js.map"
   },
   "entrypoints": [
     "static/css/main.d4a383f0.css",
-    "static/js/main.74f4f676.js"
+    "static/js/main.23d64549.js"
   ]
 }
