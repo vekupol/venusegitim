@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/venusegitim/static/css/main.d4a383f0.css",
-    "main.js": "/venusegitim/static/js/main.1b3b95c0.js",
+    "main.css": "/venusegitim/static/css/main.811a868d.css",
+    "main.js": "/venusegitim/static/js/main.1294c42c.js",
     "static/media/teacher-3.svg": "/venusegitim/static/media/teacher-3.51fd178da4a9d86e82e11d824151af90.svg",
     "static/media/student-2.svg": "/venusegitim/static/media/student-2.97b8420a31126e12d43312b786d3a01e.svg",
     "static/media/parent3.svg": "/venusegitim/static/media/parent3.c66844dc021cf8cba35deb6ba1a9973d.svg",
     "static/media/parent4.svg": "/venusegitim/static/media/parent4.bf9f23f9f94dbf46e51d7c7b5c2fcce6.svg",
     "static/media/student-3.svg": "/venusegitim/static/media/student-3.56e371a61d58c1615a9b01d322914ea2.svg",
+    "static/media/PoetsenOne-Regular.ttf": "/venusegitim/static/media/PoetsenOne-Regular.9a553614c0458410b697.ttf",
     "static/media/anaresim11.svg": "/venusegitim/static/media/anaresim11.eae5b1a04ccedbe51cf04cfb8cd4d379.svg",
     "static/media/student-4.svg": "/venusegitim/static/media/student-4.bc1184b3ec40c85b0c1b3d69b57c3125.svg",
     "static/media/teacher-4.svg": "/venusegitim/static/media/teacher-4.5992d1812095050c478a37627d6a23e1.svg",
     "static/media/teacher-2.svg": "/venusegitim/static/media/teacher-2.e561e3bb195bfd30ecb73db7a68bc43b.svg",
     "static/media/parent2.svg": "/venusegitim/static/media/parent2.4172f36da231bc397d1068e02cda901a.svg",
+    "static/media/coca-cola-2021.svg": "/venusegitim/static/media/coca-cola-2021.3772fcc560078d049dd705311c9e74bc.svg",
+    "static/media/logo-lg.svg": "/venusegitim/static/media/logo-lg.4465d606d001a91d90bc90f90890d3a7.svg",
+    "static/media/turkcell-logo-2.svg": "/venusegitim/static/media/turkcell-logo-2.5d88603d8e92d78463e241493b5bcb95.svg",
+    "static/media/asus-logo.svg": "/venusegitim/static/media/asus-logo.e6cb523ceca80c43bc4b30712b16d2a6.svg",
+    "static/media/opet-logo.svg": "/venusegitim/static/media/opet-logo.7d738647de25b72ac6ad736308b9dd1e.svg",
     "index.html": "/venusegitim/index.html",
     "static/media/ellipse1.svg": "/venusegitim/static/media/ellipse1.6dbe4b8e8616d58da46e0ca00a8494b6.svg",
-    "main.d4a383f0.css.map": "/venusegitim/static/css/main.d4a383f0.css.map",
-    "main.1b3b95c0.js.map": "/venusegitim/static/js/main.1b3b95c0.js.map"
+    "main.811a868d.css.map": "/venusegitim/static/css/main.811a868d.css.map",
+    "main.1294c42c.js.map": "/venusegitim/static/js/main.1294c42c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4a383f0.css",
-    "static/js/main.1b3b95c0.js"
+    "static/css/main.811a868d.css",
+    "static/js/main.1294c42c.js"
   ]
 }
